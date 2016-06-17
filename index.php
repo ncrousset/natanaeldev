@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -103,11 +103,11 @@
 
             <div class="textIntro">
               <div class="hi">
-              <h1>Hello</h1>
+              <h1>yamayllaku</h1>
               <p>
-              My name is <span>Brian Cooper.</span> I'm a passionate web designer and developer with ten years experience in this domain, focused on building great and premium websites.
+                  I`m <span>Natanael Acosta.</span> full stark developer, amante de la tecnología. Me especializo en el desarrollo web y móviles. Nacido en una pequeña isla ubicada en el mismo trayecto del sol, oriundo de la noche, colocado en un inverosímil archipiélago de azúcar y de alcohol
               </p>
-              <a class="easing" href="#sectionAbout"><span class="view">View Profile</span><span class="icon arrow_right"></span></a>
+              <a class="easing" href="#sectionAbout"><span class="view">Ver perfil</span><span class="icon arrow_right"></span></a>
               </div>
             </div>
 
@@ -122,8 +122,9 @@
           <div class="container">
 
           <div class="sectionTitle">
-              <h1>About</h1> 
-              <p>I'm Brian, a highly motivated guy with more than a <span>decade of experience</span> in Design and Development. I've worked with several larger as well as smaller brands and I'm a fan of a good challenge.</p>  
+              <h1>Un poco más de mí</h1>
+              <p>Desarrollador php y javascript, con mas de 10 a&ntilde;os de experiencia.
+                  </p>
           </div>
 
           <div class="col-md-12 about">
@@ -131,50 +132,30 @@
 
             <div class="col-md-3 col-sm-3 col-xs-12 about-image">
             <img src="assets/images/person.png" alt="">
-            <h4>Brian Cooper</h4>
+            <h4>Natanael Acosta</h4>
             </div>
 
 
             <div class="col-md-4 col-sm-3 col-xs-12 profile">
             <ul class="info">
-            <li><span>Complete Name:</span> Brian George Cooper</li>
-            <li><span>Date of birth:</span> 06 January 1990</li>
-            <li><span>Hobbies:</span> football & photography</li>
-            <li><span>Home adress:</span> Great Street, No. 6, NYC</li>
+            <li><span>Nombre:</span> Rudys Natanael Acosta Crousset</li>
+            <li><span>Fecha de nacimiento:</span> 26 Sept, un sabado</li>
+            <li><span>Vive:</span> Santiago, RD</li>
             </ul>
             <ul class="social">
-            <li><a href="#" class="icon social_facebook_circle"></a></li>
-            <li><a href="#" class="icon social_twitter_circle"></a></li>
-            <li><a href="#" class="icon social_pinterest_circle"></a></li>
-            <li><a href="#" class="icon social_dribbble_circle"></a></li>
+                <li ><a href="#" class="icon fa fa-linkedin fa-lg"></a></li>
+                <li><a href="#" class="icon fa fa-facebook fa-lg"></a></li>
+                <li><a href="#" class="icon fa fa-twitter fa-lg"></a></li>
+                <li ><a href="#" class="icon fa fa-github fa-lg"></a></li>
             </ul>
             </div>
 
             <div class="col-md-5 col-sm-5 col-xs-12 skills">
-            <h5>HTML & CSS<span>90%</span></h5>
-            <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="90" style="width:90%;" aria-valuemin="0" aria-valuemax="100">
-            </div>
-            </div>
 
-            <h5>Wordpress<span>83%</span></h5>
-            <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="83" style="width:83%;" aria-valuemin="0" aria-valuemax="100">
-            </div>
-            </div>
+            <h4><em>Skills</em></h4>
+                <div class="col-md-12">
 
-            <h5>Photoshop<span>95%</span></h5>
-            <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="95" style="width:95%;" aria-valuemin="0" aria-valuemax="100">
-            </div>
-            </div>
-
-            <h5>Javascript<span>86%</span></h5>
-            <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="86" style="width:86%;" aria-valuemin="0" aria-valuemax="100">
-            </div>
-            </div>
-
+                </div>
             </div>
 
           </div>

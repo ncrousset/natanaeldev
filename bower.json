@@ -1,0 +1,26 @@
+{
+  "name": "Natanaeldev",
+  "homepage": "natanaeldev.tk",
+  "authors": [
+    "Rdusy Natanael Acosta Crousset <natanael926@gmail.com>"
+  ],
+  "description": "Mi pagina personal",
+  "main": "index.php",
+  "keywords": [
+    "Laravel",
+    "angularjs",
+    "php",
+    "readis",
+    "gnu/linux",
+    "javascript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
