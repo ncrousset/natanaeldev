@@ -1,1 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/natanaeldev.tk.iml
+.idea/workspace.xml
