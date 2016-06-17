@@ -47,7 +47,7 @@
           <!--Header logo on the left side-->
 
           <div class="col-md-4 col-sm-1 col-xs-4 headerLeft">
-          <a href="index.html">
+          <a href="index.php">
           <img src="assets/images/site-logo.png" alt="">
           </a>
           </div>
