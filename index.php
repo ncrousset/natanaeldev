@@ -48,7 +48,7 @@
 
           <div class="col-md-4 col-sm-1 col-xs-4 headerLeft">
           <a href="index.php">
-          <img src="assets/images/site-logo.png" alt="">
+                <img src="assets/images/site-logo.png" alt="">
           </a>
           </div>
 
@@ -143,10 +143,10 @@
             <li><span>Vive:</span> Santiago, RD</li>
             </ul>
             <ul class="social">
-                <li ><a href="#" class="icon fa fa-linkedin fa-lg"></a></li>
-                <li><a href="#" class="icon fa fa-facebook fa-lg"></a></li>
+                <li ><a target="_blank" href="https://www.linkedin.com/in/rudys-natanael-acosta-crousset-33077634" class="icon fa fa-linkedin fa-lg"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/natanael926" class="icon fa fa-facebook fa-lg"></a></li>
                 <li><a href="#" class="icon fa fa-twitter fa-lg"></a></li>
-                <li ><a href="#" class="icon fa fa-github fa-lg"></a></li>
+                <li ><a target="_blank" href="https://github.com/natanael926" class="icon fa fa-github fa-lg"></a></li>
             </ul>
             </div>
 
@@ -156,8 +156,12 @@
                     <a><span class="label label-info">Php</span></a>
                     <a><span class="label label-info">Laravel</span></a>
                     <a><span class="label label-info">Javascript</span></a>
+                    <a><span class="label label-info">Java</span></a>
+                    <a><span class="label label-info">Ruby on rails</span></a>
                     <a><span class="label label-info">GNU/Linux</span></a>
+                    <a><span class="label label-info">Zend Frameword</span></a>
                     <a><span class="label label-info">Mysql</span></a>
+                    <a><span class="label label-info">Redis</span></a>
                     <a><span class="label label-info">ReactJs</span></a>
                     <a><span class="label label-info">Jquery</span></a>
                 </div>
@@ -185,9 +189,8 @@
          <div class="container">
 
           <div class="sectionTitle">
-            <h1>Resume</h1>
-            <p>For every project that I have done my focus has been on creating the best user <span>experience</span> possible. Here is a brief summary of my past.</p>
-          </div>
+            <h1>Experiencia laboral</h1>
+           </div>
 
             <div class="row resumeRow">
 
@@ -199,8 +202,8 @@
                                 <div class="icon icon-basic-book"></div>
                             </div>
                             <div class="resumeContent">
-                                <h5>October 2010 - June 2014</h5>
-                                <span>Graduated with bachelor degree from <b>University</b></span>
+                                <h5>Septiembre 2015 - Presentes</h5>
+                                <span>Full-stack developer en <b>Versamed internacinal</b> </span>
                             </div>
                         </li>
                         <li>
@@ -234,7 +237,7 @@
                                 <div class="icon icon-basic-todolist-pen"></div>
                             </div>
                             <div class="resumeContent">
-                                <h5>January 2014 - Present</h5>
+                                <h5>January 2014 - Presentes</h5>
                                 <span>Art Director & Principal designer at <b>Company Name</b></span>
                             </div>
                         </li>
