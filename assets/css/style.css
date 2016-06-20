@@ -386,6 +386,16 @@ a:focus {
 	padding-top: 5px;
 	padding-right: 25px !important;
 }
+
+.div-skills a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.skills a {
+ font-size: 18px;
+}
+
 .about .skills h5{
 	font-family: "Muli", sans-serif;
 	font-size: 14px;

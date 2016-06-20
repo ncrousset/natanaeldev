@@ -12,7 +12,7 @@
 
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/lib/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
@@ -131,7 +131,7 @@
 
 
             <div class="col-md-3 col-sm-3 col-xs-12 about-image">
-            <img src="assets/images/person.png" alt="">
+            <img src="assets/images/nata.png" alt="">
             <h4>Natanael Acosta</h4>
             </div>
 
@@ -139,7 +139,7 @@
             <div class="col-md-4 col-sm-3 col-xs-12 profile">
             <ul class="info">
             <li><span>Nombre:</span> Rudys Natanael Acosta Crousset</li>
-            <li><span>Fecha de nacimiento:</span> 26 Sept, un sabado</li>
+            <li><span>Fecha de nacimiento:</span> 26 Sept, 1987</li>
             <li><span>Vive:</span> Santiago, RD</li>
             </ul>
             <ul class="social">
@@ -151,33 +151,38 @@
             </div>
 
             <div class="col-md-5 col-sm-5 col-xs-12 skills">
-
             <h4><em>Skills</em></h4>
-                <div class="col-md-12">
-
+                <div class="col-md-12 div-skills">
+                    <a><span class="label label-info">Php</span></a>
+                    <a><span class="label label-info">Laravel</span></a>
+                    <a><span class="label label-info">Javascript</span></a>
+                    <a><span class="label label-info">GNU/Linux</span></a>
+                    <a><span class="label label-info">Mysql</span></a>
+                    <a><span class="label label-info">ReactJs</span></a>
+                    <a><span class="label label-info">Jquery</span></a>
                 </div>
             </div>
 
           </div>
-            
 
-            
-         
+
+
+
           </div>
-    
-        
+
+
       </section>
 
-      
 
 
-		
+
+
 <!-- section Resume
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-		
+
     <section id="sectionResume">
 
-         <div class="container"> 
+         <div class="container">
 
           <div class="sectionTitle">
             <h1>Resume</h1>
@@ -691,8 +696,8 @@
 
 <!--  Javascripts
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-      <script src="assets/js/jquery-2.1.3.js"></script>
-      <script src="assets/js/bootstrap.js"></script>
+      <script src="assets/lib/jquery/dist/jquery.min.js"></script>
+      <script src="assets/lib/bootstrap/dist/js/bootstrap.min.js"></script>
       <script src="assets/js/modernizr.custom.js"></script>
       <script src="assets/js/contactform.js"></script>
       <!-- Navigation menu-->
