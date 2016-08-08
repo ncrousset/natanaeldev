@@ -69,13 +69,11 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                     <ul class="navbar navbar-right">
-                      <li><a href="#sectionIntro" class="easing">Home</a></li>
-                      <li><a href="#sectionAbout" class="easing">About</a></li>
-                      <li><a href="#sectionResume" class="easing">Resume</a></li>
-                      <li><a href="#sectionPortfolio" class="easing">Portfolio</a></li>
-                      <li><a href="#sectionServices" class="easing">Services</a></li>
-                      <li><a href="#sectionBlog" class="easing">Journal</a></li>
-                      <li><a href="#sectionContact" class="easing">Contact</a></li>
+                      <li><a href="#sectionIntro" class="easing">Inicio</a></li>
+                      <li><a href="#sectionAbout" class="easing">Sobre Mi</a></li>
+                      <li><a href="#sectionResume" class="easing">Experiencia</a></li>
+                      <li><a href="#sectionBlog" class="easing">Blog</a></li>
+                      <li><a href="#sectionContact" class="easing">Conctato</a></li>
                     </ul>
 
                 </div>
@@ -123,12 +121,11 @@
 
           <div class="sectionTitle">
               <h1>Un poco más de mí</h1>
-              <p>Desarrollador php y javascript, con mas de 10 a&ntilde;os de experiencia.
+              <p>Desarrollador php y javascript, con más de 8 a&ntilde;os de experiencia.
                   </p>
           </div>
 
           <div class="col-md-12 about">
-
 
             <div class="col-md-3 col-sm-3 col-xs-12 about-image">
             <img src="assets/images/nata.png" alt="">
@@ -145,8 +142,8 @@
             <ul class="social">
                 <li ><a target="_blank" href="https://www.linkedin.com/in/rudys-natanael-acosta-crousset-33077634" class="icon fa fa-linkedin fa-lg"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/natanael926" class="icon fa fa-facebook fa-lg"></a></li>
-                <li><a href="#" class="icon fa fa-twitter fa-lg"></a></li>
-                <li ><a target="_blank" href="https://github.com/natanael926" class="icon fa fa-github fa-lg"></a></li>
+                <li><a target="_blank" href="https://twitter.com/ncroussett"  class="icon fa fa-twitter fa-lg"></a></li>
+                <li ><a target="_blank" href="https://github.com/ncrousset" class="icon fa fa-github fa-lg"></a></li>
             </ul>
             </div>
 
@@ -162,16 +159,13 @@
                     <a><span class="label label-info">Zend Frameword</span></a>
                     <a><span class="label label-info">Mysql</span></a>
                     <a><span class="label label-info">Redis</span></a>
+                    <a><span class="label label-info">AngularJs</span></a>
                     <a><span class="label label-info">ReactJs</span></a>
                     <a><span class="label label-info">Jquery</span></a>
                 </div>
             </div>
 
           </div>
-
-
-
-
           </div>
 
 
@@ -270,263 +264,6 @@
 
         </div>
     </section>
-
-    <div class="sectionStats">
-      <div class="container">
-
-      <div class="col-md-2 col-sm-6 col-xs-6">
-      <h3>327</h3>
-      <p>Happy clients</p>
-      </div>
-
-      <div class="col-md-2 col-sm-6 col-xs-6">
-      <h3>459</h3>
-      <p>Awesome ideas</p>
-      </div>
-
-      <div class="col-md-2 col-sm-6 col-xs-6">
-      <h3>162</h3>
-      <p>Coffee mugs</p>
-      </div>
-
-      <div class="col-md-2 col-sm-6 col-xs-6">
-      <h3>101</h3>
-      <p>Awards colected</p>
-      </div>
-
-      <div class="col-md-2 col-sm-6 col-xs-6">
-      <h3>837</h3>
-      <p>Design sketches</p>
-      </div>
-
-      <div class="col-md-2 col-sm-6 col-xs-6">
-      <h3>141</h3>
-      <p>Projects completed</p>
-      </div>
-
-      </div>
-    </div>
-
-		
-<!-- section Portfolio
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <section id="sectionPortfolio">       
-
-        <!--GRID ITEMS-->
-
-     <!--GRID START-->
-
-    <div class="container">
-
-
-    <div class="sectionTitle">
-            <h1>Portfolio</h1>
-            <p>For every project that I have done my focus has been on creating the best design, so I spend a lot of time to finish the details. Here are <span>my latest works</span> presented in a modern way.</p>
-    </div> 
-
-
-    <div id="masonry-grid" class="mGrid">
-
-        <div class="gutter-sizer"></div>
-
-            
-            <div class="grid-item item-five">
-
-              <a class="image-modal" href="#image-modal1">
-
-                <img src="assets/images/1.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h4>The Mountain<span> ~ Branding</span></h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal1" class="mfp-hide modal-box">
-                  <img src="assets/images/1.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>The Mountain<span> ~ Branding</span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                  </div>
-              </div>         
-
-            </div>
-
-
-          <div class="grid-item item-five">
-
-              <a class="image-modal" href="#image-modal2">
-
-                <img src="assets/images/4.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h4>iOS App<span> ~ Design</span></h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal2" class="mfp-hide modal-box">
-                  <img src="assets/images/4.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>iOS App<span> ~ Design</span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                  </div>
-              </div>         
-
-            </div>
-
-            <div class="grid-item item-five">
-
-              <a class="image-modal" href="#image-modal3">
-
-                <img src="assets/images/3.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h4>Poster<span> ~ Illustration</span></h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal3" class="mfp-hide modal-box">
-                  <img src="assets/images/3.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Poster<span> ~ Illustration</span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                  </div>
-              </div>         
-
-            </div>
-
-            <div class="grid-item item-five">
-
-              <a class="image-modal" href="#image-modal4">
-
-                <img src="assets/images/5.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h4>Social App<span> ~ Design</span></h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal4" class="mfp-hide modal-box">
-                  <img src="assets/images/5.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Social App<span> ~ Design</span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                  </div>
-              </div>         
-
-            </div>
-
-            <div class="grid-item item-five">
-
-              <a class="image-modal" href="#image-modal5">
-
-                <img src="assets/images/6.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h4>Epic Logo<span> ~ Illustration</span></h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal5" class="mfp-hide modal-box">
-                  <img src="assets/images/6.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Epic Logo<span> ~ Illustration</span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                  </div>
-              </div>         
-
-            </div>
-
-            <div class="grid-item item-five">
-
-              <a class="image-modal" href="#image-modal6">
-
-                <img src="assets/images/2.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h4>Mont<span> ~ Branding</span></h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal6" class="mfp-hide modal-box">
-                  <img src="assets/images/2.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Mont<span> ~ Branding</span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                  </div>
-              </div>         
-
-            </div>
-
-
-    </div>
-    </div>
-
-   
-    </section> 
-
-
-<!-- section Services
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
-
-        <section id="sectionServices">
-          
-          <div class="container">
-
-          <div class="sectionTitle">
-            <h1>Services</h1>
-            <p>To give real service you must add something which cannot be bought or measured with money, and that is <span>sincerity and integrity.</span></p>
-          </div> 
-
-             <div class="row servicesRow">
-
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                    <div class="servicesBox">
-                        <div class="servicesContent">
-                        <h4>01.</h4>
-                        <h6>Ideas & concepts</h6>
-                        <p class="plineheight">
-                        Lorem ipsum dolor sit amet, consecteture adipisicing elit. Inventore adipisciting sint excepturi dolorum, quod libero distinct.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                    <div class="servicesBox">
-                        <div class="servicesContent">
-                        <h4>02.</h4>
-                        <h6>Coding & development</h6>
-                        <p class="plineheight">
-                        Duis aute irure dolor in reprehenderit inesa voluptate velit esse cillum dolore eutera il fugiat nulla pariatur.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                    <div class="servicesBox">
-                        <div class="servicesContent">
-                        <h4>03.</h4>
-                        <h6>Support and advices</h6>
-                        <p class="plineheight">
-                        Excepteur sint occaecat cupidatat nonemis proident, sunt in culpa qui officialum ete deserunt mollit anim id est laborum.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            
-
-          </div>
-
-        </section>
-
-
 
 <!-- section Blog
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
